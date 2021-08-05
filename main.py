@@ -26,4 +26,7 @@ def feature_number_two():
 def feature_number_three():
     print('wow')
 
+    
+print('something new again which goes to a new branch first')
+print('lalala')
 print('fries')
