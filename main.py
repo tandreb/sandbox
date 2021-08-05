@@ -25,3 +25,5 @@ def feature_number_two():
 
 def feature_number_three():
     print('wow')
+
+print('fries')
