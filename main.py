@@ -9,3 +9,7 @@ print(res)
 
 print('Adding more things')
 print('adding additional stuff')
+
+
+def feature_number_two():
+    print('wow')
