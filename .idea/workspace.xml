@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83517c3a-76e4-4dcf-9bf7-6ca7d0d6104e" name="Changes" comment="print hello world again" />
+    <list default="true" id="83517c3a-76e4-4dcf-9bf7-6ca7d0d6104e" name="Changes" comment="added feature #3">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +24,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="experimental_feature" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -147,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628194737587</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add ide files">
+      <created>1628195154709</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628195154709</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added feature #3">
+      <created>1628195476314</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1628195476314</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,7 +182,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="origin/experimental_feature" />
                       </list>
                     </value>
                   </entry>
@@ -190,7 +206,9 @@
     <MESSAGE value="adding feature #2" />
     <MESSAGE value="adding file2.py" />
     <MESSAGE value="print hello world again" />
-    <option name="LAST_COMMIT_MESSAGE" value="print hello world again" />
+    <MESSAGE value="add ide files" />
+    <MESSAGE value="added feature #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="added feature #3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
