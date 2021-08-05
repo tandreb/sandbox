@@ -21,3 +21,7 @@ print('adding additional stuff')
 
 def feature_number_two():
     print('wow')
+
+
+def feature_number_three():
+    print('wow')
